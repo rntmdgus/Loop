@@ -10,7 +10,7 @@ function setup() {
   x = 100;
   ellipse(x, 100, 50, 50);
 
-  x = 250;
+  x = 200;
   ellipse(x, 100, 50, 50);
 
   x = 300;
